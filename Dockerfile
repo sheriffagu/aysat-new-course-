@@ -1,1 +1,1 @@
-CMD ["python", "aysat.py"]
+first file
